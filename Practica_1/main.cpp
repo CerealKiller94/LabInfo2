@@ -9,7 +9,6 @@ void sumaFibionacci();
 void sumaMultiplos();
 void sumaMultiplosElevados();
 void minimoComunMultiplo();
-int cribaEratostenes(int maximo);
 void numerosPrimos();
 bool isCapicua(int num);
 void maximoCapicua();
