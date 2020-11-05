@@ -77,6 +77,7 @@ void simularCajero(){
     pass: 2020
     cifrado: 2
     Semilla: 16
+    El nombre del archivo de usuarios debe ser: users.txt
     */
     short int opc = -1;
     string administrador[2];
